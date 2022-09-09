@@ -1,0 +1,17 @@
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\obj\Debug\WindowsFormsEshm.Main.resources
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\obj\Debug\WindowsFormsEshm.ProductDetails.resources
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\obj\Debug\WindowsFormsEshm.Properties.Resources.resources
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\obj\Debug\WindowsFormsEshm.csproj.GenerateResource.cache
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\obj\Debug\WindowsFormsEshm.csproj.CoreCompileInputs.cache
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\bin\Debug\WindowsFormsEshm.exe.config
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\bin\Debug\WindowsFormsEshm.exe
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\bin\Debug\WindowsFormsEshm.pdb
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\obj\Debug\WindowsFormsEshm.exe
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\obj\Debug\WindowsFormsEshm.pdb
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\bin\Debug\EntityFramework.dll
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\bin\Debug\EntityFramework.xml
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\obj\Debug\WindowsFormsEshm.csproj.CopyComplete
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\obj\Debug\WindowsFormsEshm.csproj.AssemblyReference.cache
+C:\Users\sefer\Documents\Visual Studio 2017\Projects\WindowsFormsEshm\WindowsFormsEshm\obj\Debug\WindowsFormsEshm.csproj.SuggestedBindingRedirects.cache
